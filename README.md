@@ -30,3 +30,5 @@ Wage estimation project of football players based on their characteristics from 
   
    
 ![image](https://user-images.githubusercontent.com/108229954/186179491-4aee1660-ce09-4d30-83e1-12dc3ef54303.png)
+
+[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://youtu.be/XOJ89rPp_Uc)" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "asdasadasad")
